@@ -18,7 +18,7 @@
     <div class="row">
         <div class="col-lg-3 col-6">
             <!-- small box -->
-            <div class="small-box bg-secondary">
+            <div class="small-box bg-danger">
                 <div class="inner">
                     <h5>FHK</h5>
                 </div>
@@ -28,7 +28,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-6">
             <!-- small box -->
-            <div class="small-box bg-secondary">
+            <div class="small-box bg-danger">
                 <div class="inner">
                     <h5>Data Gembala</h5>
                 </div>
@@ -38,7 +38,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-6">
             <!-- small box -->
-            <div class="small-box bg-secondary">
+            <div class="small-box bg-danger">
                 <div class="inner">
                     <h5>Pendamping FHK</h5>
                 </div>
@@ -48,7 +48,7 @@
         <!-- ./col -->
         <div class="col-lg-3 col-6">
             <!-- small box -->
-            <div class="small-box bg-secondary">
+            <div class="small-box bg-danger">
                 <div class="inner">
                     <h5>Berita</h5>
                 </div>
