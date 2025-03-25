@@ -5,6 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>PP-MG-KGPM | Dashboard</title>
+    <link rel="icon" href="{{ asset('assets/dist/img/AdminLTELogo.png') }}" type="image/x-icon">
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Google Font: Source Sans Pro -->
     @include('admin.layouts.styles')
@@ -12,7 +13,6 @@
 
 <body class="hold-transition sidebar-mini layout-fixed">
     <div class="wrapper">
-
         <!-- Preloader -->
         @include('admin.layouts.preloader')
 
